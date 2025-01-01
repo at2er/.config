@@ -1,0 +1,10 @@
+*
+nvim
+
+!.gitignore
+!neomutt
+!neomutt/*
+!yazi
+!yazi/*
+!zsh
+!zsh/*

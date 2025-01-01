@@ -1,0 +1,10 @@
+bind index,pager g noop
+
+macro index \' "<save-message>=Archive<enter>" "archive a message"
+
+macro index,pager gi "<change-folder>=Inbox<enter>" "go to inbox"
+macro index,pager gj "<change-folder>=Junk<enter>" "go to junk"
+macro index,pager gs "<change-folder>=Sent<enter>" "go to sent"
+macro index,pager gd "<change-folder>=Drafts<enter>" "go to drafts"
+macro index,pager gt "<change-folder>=Trash<enter>" "go to trash"
+macro index,pager ga "<change-folder>=Archive<enter>" "go to archive"

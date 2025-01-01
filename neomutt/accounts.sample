@@ -1,0 +1,5 @@
+set folder="</path/to/mailbox>"
+set spoolfile = "<>"
+set postponed = "<>"
+set record = "<>"
+set trash = "<>"
